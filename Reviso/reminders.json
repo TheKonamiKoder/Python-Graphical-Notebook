@@ -1,0 +1,8 @@
+{
+  "reminder":{
+    "date":"23/09/20",
+    "time": 1930,
+    "title":"This is a reminder",
+    "description":"It WORKS"
+  }
+}
